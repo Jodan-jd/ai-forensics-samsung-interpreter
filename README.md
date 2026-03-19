@@ -86,8 +86,7 @@ ai-forensics-samsung-interpreter/
 
 ## 📄 Proposal
 
-👉 View Full Proposal:
-docs/project-proposal.pdf
+👉 [View Full Proposal](https://github.com/Jodan-jd/ai-forensics-samsung-interpreter/blob/main/docs/project-proposal.pdf)
 
 ---
 
